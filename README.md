@@ -1,0 +1,2 @@
+# Zebra-Stagenow_Transfer Stagenow Configuration from FTP Server
+FTPサーバからStagenow設定をダウンロードする環境を構築する方法
