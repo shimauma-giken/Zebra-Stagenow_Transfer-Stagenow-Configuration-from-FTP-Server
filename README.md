@@ -28,7 +28,7 @@
     | エクスポート | Datawedgeの全設定設定 | datawedge.db
     | プロファイルのエクスポート | アプリ別のDatawedge | dwprofile_[appname].db
 
-1. **エクスポートしたプロファイルをPCにダウンロードします。**
+1. **エクスポートしたプロファイルをPCにダウンロードする。**
 
     ダウンロード方法は色々あるが、Windowsコマンドを利用した方法を記載する。
 
@@ -37,7 +37,7 @@
     /storage/emulated/0/Android/data/com.symbol.datawedge/file...file pulled, 0 skipped. 18.1 MB/s (357376 bytes in 0.019s)
     ```
 
-1. ダウンロードしたファイルをFTPサーバにアップロードします。
+1. ダウンロードしたファイルをFTPサーバにアップロードする。
 
 
 
